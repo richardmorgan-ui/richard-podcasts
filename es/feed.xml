@@ -19,14 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 27 Jul 2026 18:49:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:58:33 +0000</lastBuildDate>
+    <item>
+      <title>Criogénesis: la apuesta de los congelados</title>
+      <description>Un tanque de acero en Arizona a menos ciento noventa y seis grados. Qué dice la ciencia de verdad sobre la vitrificación, por qué hay que estar legalmente muerto primero, y si esto es una estafa o una apuesta racional. Con preguntas para el debate.</description>
+      <itunes:summary>Un tanque de acero en Arizona a menos ciento noventa y seis grados. Qué dice la ciencia de verdad sobre la vitrificación, por qué hay que estar legalmente muerto primero, y si esto es una estafa o una apuesta racional. Con preguntas para el debate.</itunes:summary>
+      <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/es/audio/02-criogenesis.mp3" length="37736109" type="audio/mpeg"/>
+      <guid isPermaLink="false">es-02-criogenesis.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 18:58:33 +0000</pubDate>
+      <itunes:duration>0:39:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Los ninis: por qué el Reino Unido acabó peor que España</title>
       <description>Del 22,5% de 2013 al mínimo histórico español, frente a una tendencia británica que sube. Prestaciones, pandemia, factores estructurales y salud mental. Nivel nativo, sin simplificar.</description>
       <itunes:summary>Del 22,5% de 2013 al mínimo histórico español, frente a una tendencia británica que sube. Prestaciones, pandemia, factores estructurales y salud mental. Nivel nativo, sin simplificar.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/es/audio/01-ninis.mp3" length="882861" type="audio/mpeg"/>
       <guid isPermaLink="false">es-01-ninis.mp3</guid>
-      <pubDate>Mon, 27 Jul 2026 18:49:12 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 18:58:33 +0000</pubDate>
       <itunes:duration>0:03:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
