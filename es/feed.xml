@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Español — podcast personal</title>
+    <link>https://richardmorgan-ui.github.io/richard-podcasts/es/</link>
+    <language>es-ES</language>
+    <description>Episodios en español para mantener el nivel: actualidad, debate y análisis. Nivel B2/C1, registro nativo, sin simplificar. Generado localmente, uso personal.</description>
+    <itunes:author>Richard Morgan</itunes:author>
+    <itunes:summary>Episodios en español para mantener el nivel: actualidad, debate y análisis. Nivel B2/C1, registro nativo, sin simplificar. Generado localmente, uso personal.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Richard Morgan</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://richardmorgan-ui.github.io/richard-podcasts/es/cover.jpg"/>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Mon, 27 Jul 2026 12:38:21 +0000</lastBuildDate>
+    <item>
+      <title>Los ninis: por qué el Reino Unido acabó peor que España</title>
+      <description>Del 22,5% de 2013 al mínimo histórico español, frente a una tendencia británica que sube. Prestaciones, pandemia, factores estructurales y salud mental. Nivel nativo, sin simplificar.</description>
+      <itunes:summary>Del 22,5% de 2013 al mínimo histórico español, frente a una tendencia británica que sube. Prestaciones, pandemia, factores estructurales y salud mental. Nivel nativo, sin simplificar.</itunes:summary>
+      <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/es/audio/01-ninis.mp3" length="882861" type="audio/mpeg"/>
+      <guid isPermaLink="false">es-01-ninis.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 12:38:21 +0000</pubDate>
+      <itunes:duration>0:03:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
