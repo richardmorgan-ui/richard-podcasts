@@ -19,14 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 27 Jul 2026 19:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:26:17 +0000</lastBuildDate>
+    <item>
+      <title>L'évasion de l'île d'Elbe</title>
+      <description>Sept cents hommes contre un royaume. En vingt jours, Napoléon reprend la France sans tirer un seul coup de feu. À Laffrey, il ouvre son manteau devant les fusils braqués sur lui. La vraie question de cet épisode : pourquoi les soldats l'ont-ils suivi ?</description>
+      <itunes:summary>Sept cents hommes contre un royaume. En vingt jours, Napoléon reprend la France sans tirer un seul coup de feu. À Laffrey, il ouvre son manteau devant les fusils braqués sur lui. La vraie question de cet épisode : pourquoi les soldats l'ont-ils suivi ?</itunes:summary>
+      <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/12-elbe.mp3" length="39283629" type="audio/mpeg"/>
+      <guid isPermaLink="false">fr-12-elbe.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 19:26:17 +0000</pubDate>
+      <itunes:duration>0:40:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>MH370 — l'avion qui s'est effacé</title>
       <description>Huit mars deux mille quatorze. Le transpondeur s'éteint entre deux espaces aériens, l'avion fait demi-tour, et sept heures de signaux satellite invisibles dessinent un arc au milieu de l'océan Indien. Ce qu'on sait, ce qu'on suppose, et pourquoi on ne l'a jamais trouvé.</description>
       <itunes:summary>Huit mars deux mille quatorze. Le transpondeur s'éteint entre deux espaces aériens, l'avion fait demi-tour, et sept heures de signaux satellite invisibles dessinent un arc au milieu de l'océan Indien. Ce qu'on sait, ce qu'on suppose, et pourquoi on ne l'a jamais trouvé.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/11-mh370.mp3" length="36901293" type="audio/mpeg"/>
       <guid isPermaLink="false">fr-11-mh370.mp3</guid>
-      <pubDate>Mon, 27 Jul 2026 19:18:06 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 19:26:17 +0000</pubDate>
       <itunes:duration>0:38:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -36,7 +46,7 @@
       <itunes:summary>Budapest, mille neuf cent quarante-quatre. Un diplomate suédois invente un passeport qui n'existe pas et sauve des dizaines de milliers de personnes. En janvier mille neuf cent quarante-cinq, il monte dans une voiture soviétique et personne ne le revoit jamais. L'enquête n'est toujours pas close.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/10-wallenberg.mp3" length="35227053" type="audio/mpeg"/>
       <guid isPermaLink="false">fr-10-wallenberg.mp3</guid>
-      <pubDate>Sun, 26 Jul 2026 19:18:06 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 19:26:17 +0000</pubDate>
       <itunes:duration>0:36:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -46,7 +56,7 @@
       <itunes:summary>Deux villes séparées par un fleuve, un empire qui a duré cinquante ans, douze jours de liberté en 1956, une langue venue de l'Oural, et soixante-dix millions de litres d'eau chaude par jour. Puis la partie utile : les verbes avec être, le passé composé contre l'imparfait, six connecteurs, et les réponses aux questions qu'on va vraiment te poser à table.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/09-budapest.mp3" length="36250413" type="audio/mpeg"/>
       <guid isPermaLink="false">fr-09-budapest.mp3</guid>
-      <pubDate>Sat, 25 Jul 2026 19:18:06 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 19:26:17 +0000</pubDate>
       <itunes:duration>0:37:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -56,7 +66,7 @@
       <itunes:summary>Série complète en cinq mouvements. Le mythe de la machine de guerre allemande et les deux millions sept cent mille chevaux. La guerre des matières premières. Les trois niveaux de la guerre. La bataille de l'Atlantique et les bombardements. Le front de l'Est, le mythe de Speer, les armes miracles, et l'idéologie comme handicap stratégique.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/WW2%20-%20Pourquoi%20Hitler%20a%20perdu%20(complet).mp3" length="21522861" type="audio/mpeg"/>
       <guid isPermaLink="false">fr-WW2 - Pourquoi Hitler a perdu (complet).mp3</guid>
-      <pubDate>Fri, 24 Jul 2026 19:18:06 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 19:26:17 +0000</pubDate>
       <itunes:duration>0:44:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -66,7 +76,7 @@
       <itunes:summary>Le choc pétrolier de 1973, le plan Messmer, et cinquante-six réacteurs en quinze ans. Le vrai secret n'était pas le génie technique mais la répétition — et pourquoi la France n'arrive plus à le refaire. Épisode du soir.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/05-nucleaire-francais.mp3" length="1770669" type="audio/mpeg"/>
       <guid isPermaLink="false">fr-05-nucleaire-francais.mp3</guid>
-      <pubDate>Thu, 23 Jul 2026 19:18:06 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 19:26:17 +0000</pubDate>
       <itunes:duration>0:07:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -76,7 +86,7 @@
       <itunes:summary>1812. Six cent mille hommes entrent dans un pays vide. Ce n'est pas l'hiver qui les a tués — la plupart sont morts avant. Borodino, Moscou en flammes, la Bérézina. Épisode du soir, rythme lent.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/04-napoleon-russie.mp3" length="1924269" type="audio/mpeg"/>
       <guid isPermaLink="false">fr-04-napoleon-russie.mp3</guid>
-      <pubDate>Wed, 22 Jul 2026 19:18:06 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 19:26:17 +0000</pubDate>
       <itunes:duration>0:08:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -86,7 +96,7 @@
       <itunes:summary>Cartes à jouer à Kyoto en 1889, taxis, riz instantané, puis Donkey Kong. Les échecs qu'on oublie de raconter, la philosophie de Gunpei Yokoi, et pourquoi la Wii a marché. Épisode du soir, rythme lent.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/03-nintendo.mp3" length="1860717" type="audio/mpeg"/>
       <guid isPermaLink="false">fr-03-nintendo.mp3</guid>
-      <pubDate>Tue, 21 Jul 2026 19:18:06 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 19:26:17 +0000</pubDate>
       <itunes:duration>0:07:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -96,7 +106,7 @@
       <itunes:summary>L'effet Barnum, la lecture à froid, et le tour du chapeau. Pourquoi notre mémoire garde les réussites et jette les erreurs. James Randi, Derren Brown, et la question inconfortable : est-ce que tous les médiums mentent ?</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/02-faux-mediums.mp3" length="2015085" type="audio/mpeg"/>
       <guid isPermaLink="false">fr-02-faux-mediums.mp3</guid>
-      <pubDate>Mon, 20 Jul 2026 19:18:06 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 19:26:17 +0000</pubDate>
       <itunes:duration>0:08:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -106,7 +116,7 @@
       <itunes:summary>Septembre 2022, quatre ruptures au fond de la Baltique. Trois enquêtes nationales, un mandat d'arrêt, et toujours aucun coupable jugé. Les théories, ce qui ne tient pas, et pourquoi c'est si difficile à résoudre.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/01-nord-stream.mp3" length="1999437" type="audio/mpeg"/>
       <guid isPermaLink="false">fr-01-nord-stream.mp3</guid>
-      <pubDate>Sun, 19 Jul 2026 19:18:06 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 19:26:17 +0000</pubDate>
       <itunes:duration>0:08:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -116,7 +126,7 @@
       <itunes:summary>Un policier mort, ressuscité en cyborg par un scientifique qui voulait une arme. L'horloge dans la poitrine, la rivalité avec Yoshimitsu, et ce qui reste quand on retire tout à quelqu'un. Épisode du soir.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/bryan-fury.mp3" length="1183533" type="audio/mpeg"/>
       <guid isPermaLink="false">fr-bryan-fury.mp3</guid>
-      <pubDate>Sat, 18 Jul 2026 19:18:06 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 19:26:17 +0000</pubDate>
       <itunes:duration>0:04:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -126,7 +136,7 @@
       <itunes:summary>Pourquoi Lyon, les bouchons, une journée type du vendredi soir au dimanche, et quatre expressions à voler pour ton prochain voyage.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/fr/audio/lyon.mp3" length="794733" type="audio/mpeg"/>
       <guid isPermaLink="false">fr-lyon.mp3</guid>
-      <pubDate>Fri, 17 Jul 2026 19:18:06 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 19:26:17 +0000</pubDate>
       <itunes:duration>0:03:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
