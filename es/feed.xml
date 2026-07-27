@@ -19,14 +19,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 27 Jul 2026 16:29:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:31:18 +0000</lastBuildDate>
     <item>
       <title>Los ninis: por qué el Reino Unido acabó peor que España</title>
       <description>Del 22,5% de 2013 al mínimo histórico español, frente a una tendencia británica que sube. Prestaciones, pandemia, factores estructurales y salud mental. Nivel nativo, sin simplificar.</description>
       <itunes:summary>Del 22,5% de 2013 al mínimo histórico español, frente a una tendencia británica que sube. Prestaciones, pandemia, factores estructurales y salud mental. Nivel nativo, sin simplificar.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/es/audio/01-ninis.mp3" length="882861" type="audio/mpeg"/>
       <guid isPermaLink="false">es-01-ninis.mp3</guid>
-      <pubDate>Mon, 27 Jul 2026 16:29:46 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 16:31:18 +0000</pubDate>
       <itunes:duration>0:03:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
