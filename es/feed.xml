@@ -19,14 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 27 Jul 2026 19:47:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 19:37:08 +0000</lastBuildDate>
+    <item>
+      <title>Ia generativa</title>
+      <description>Épisode généré localement.</description>
+      <itunes:summary>Épisode généré localement.</itunes:summary>
+      <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/es/audio/06-ia-generativa.mp3" length="58623021" type="audio/mpeg"/>
+      <guid isPermaLink="false">es-06-ia-generativa.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 19:37:08 +0000</pubDate>
+      <itunes:duration>1:01:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>La burbuja que rompió España</title>
       <description>Un aeropuerto donde nunca aterrizó un avión. Cómo España llegó a construir más viviendas que Alemania, Francia y el Reino Unido juntos, qué pasó en dos mil ocho, y por qué la generación de entonces todavía no puede comprar.</description>
       <itunes:summary>Un aeropuerto donde nunca aterrizó un avión. Cómo España llegó a construir más viviendas que Alemania, Francia y el Reino Unido juntos, qué pasó en dos mil ocho, y por qué la generación de entonces todavía no puede comprar.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/es/audio/05-burbuja.mp3" length="39449517" type="audio/mpeg"/>
       <guid isPermaLink="false">es-05-burbuja.mp3</guid>
-      <pubDate>Mon, 27 Jul 2026 19:47:45 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 19:37:08 +0000</pubDate>
       <itunes:duration>0:41:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -36,7 +46,7 @@
       <itunes:summary>Octubre del treinta y seis, Cartagena de noche. Quinientas diez toneladas de oro salen hacia Odesa y no vuelven nunca. Stalin, Orlov, Negrín, y ochenta años de propaganda por los dos lados. ¿Traición o necesidad?</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/es/audio/04-oro-moscu.mp3" length="37605933" type="audio/mpeg"/>
       <guid isPermaLink="false">es-04-oro-moscu.mp3</guid>
-      <pubDate>Sun, 26 Jul 2026 19:47:45 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 19:37:08 +0000</pubDate>
       <itunes:duration>0:39:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -46,7 +56,7 @@
       <itunes:summary>Trece mil kilómetros de distancia y el mismo argumento. Utrecht, el treinta y tres, el ochenta y dos, los referéndums, el Brexit. Autodeterminación contra integridad territorial, y por qué Ceuta complica muchísimo el argumento español.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/es/audio/03-malvinas-gibraltar.mp3" length="39343533" type="audio/mpeg"/>
       <guid isPermaLink="false">es-03-malvinas-gibraltar.mp3</guid>
-      <pubDate>Sat, 25 Jul 2026 19:47:45 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 19:37:08 +0000</pubDate>
       <itunes:duration>0:40:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -56,7 +66,7 @@
       <itunes:summary>Un tanque de acero en Arizona a menos ciento noventa y seis grados. Qué dice la ciencia de verdad sobre la vitrificación, por qué hay que estar legalmente muerto primero, y si esto es una estafa o una apuesta racional. Con preguntas para el debate.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/es/audio/02-criogenesis.mp3" length="37736109" type="audio/mpeg"/>
       <guid isPermaLink="false">es-02-criogenesis.mp3</guid>
-      <pubDate>Fri, 24 Jul 2026 19:47:45 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 19:37:08 +0000</pubDate>
       <itunes:duration>0:39:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -66,7 +76,7 @@
       <itunes:summary>Del 22,5% de 2013 al mínimo histórico español, frente a una tendencia británica que sube. Prestaciones, pandemia, factores estructurales y salud mental. Nivel nativo, sin simplificar.</itunes:summary>
       <enclosure url="https://richardmorgan-ui.github.io/richard-podcasts/es/audio/01-ninis.mp3" length="882861" type="audio/mpeg"/>
       <guid isPermaLink="false">es-01-ninis.mp3</guid>
-      <pubDate>Thu, 23 Jul 2026 19:47:45 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 19:37:08 +0000</pubDate>
       <itunes:duration>0:03:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
